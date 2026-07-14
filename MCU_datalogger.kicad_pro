@@ -512,7 +512,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Power",
+        "pattern": "VCC"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "GND"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -642,7 +651,7 @@
         "uuid": "755fa3e0-2b76-4b1a-a49f-069f1564984c"
       }
     ],
-    "used_designators": "#PWR6-11,#FLG1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
