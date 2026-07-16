@@ -3138,6 +3138,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 85.09) (xy 190.5 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "121235db-6acc-489d-abfb-0ed80c2e171e")
+	)
+	(wire
+		(pts
 			(xy 229.87 72.39) (xy 226.06 72.39)
 		)
 		(stroke
@@ -3265,16 +3275,6 @@
 			(type default)
 		)
 		(uuid "2e5e749c-2be7-4e97-b6a1-6ce33a472bdd")
-	)
-	(wire
-		(pts
-			(xy 176.53 85.09) (xy 190.5 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f2d4c2a-0d4b-4d0a-9fed-3998d3e0c9ae")
 	)
 	(wire
 		(pts
@@ -3425,16 +3425,6 @@
 			(type default)
 		)
 		(uuid "427fe484-2802-4294-aaee-cb0f78ba05ca")
-	)
-	(wire
-		(pts
-			(xy 245.11 72.39) (xy 245.11 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42cb77b4-92d4-47b8-8a41-983b870a3d1e")
 	)
 	(wire
 		(pts
@@ -3665,6 +3655,16 @@
 			(type default)
 		)
 		(uuid "6d155297-414b-4e87-b645-d0a8a06b7d71")
+	)
+	(wire
+		(pts
+			(xy 245.11 72.39) (xy 245.11 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73347406-e116-4ee9-9944-41ece822fdad")
 	)
 	(wire
 		(pts
@@ -4506,6 +4506,16 @@
 		)
 		(uuid "1c279dd3-8893-4676-9737-52e4ca9a0b56")
 	)
+	(label "INTA_N"
+		(at 88.9 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "22063115-5b19-4d22-8a52-d1421c73ca7e")
+	)
 	(label "MISO"
 		(at 116.205 165.1 180)
 		(effects
@@ -4515,6 +4525,16 @@
 			(justify right bottom)
 		)
 		(uuid "2ef1032b-553c-4c8c-8264-a6a88644247c")
+	)
+	(label "AREF"
+		(at 231.14 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "327237dd-679d-4ca8-bcb1-6a3757a7417c")
 	)
 	(label "VCC"
 		(at 233.68 54.61 0)
@@ -4625,6 +4645,16 @@
 			(justify left bottom)
 		)
 		(uuid "4ad03b01-789e-4e23-bb80-48648af075e7")
+	)
+	(label "SQW"
+		(at 102.87 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "544aff17-1b51-4049-adc4-66a1127fb13f")
 	)
 	(label "RX"
 		(at 116.205 156.21 180)
@@ -4776,6 +4806,16 @@
 		)
 		(uuid "b8487fe0-1455-4276-af38-cb475ffba62c")
 	)
+	(label "LED2_OUT"
+		(at 167.64 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b86d454d-e0a7-43f5-a17f-c8cbc51843b0")
+	)
 	(label "D3"
 		(at 149.225 148.59 0)
 		(effects
@@ -4866,6 +4906,16 @@
 		)
 		(uuid "e1ec4d39-8576-419b-8c39-449976407ea8")
 	)
+	(label "X2"
+		(at 34.29 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e3d9e11a-d3f9-4921-87bb-d257288730eb")
+	)
 	(label "VCC"
 		(at 177.8 88.9 0)
 		(effects
@@ -4885,6 +4935,16 @@
 			(justify left bottom)
 		)
 		(uuid "ebd9b901-1ace-48ff-8b08-4ac265a03355")
+	)
+	(label "X1"
+		(at 34.29 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ee2c68cc-c73d-47bc-95f3-f1e4c5ec73ae")
 	)
 	(label "TX"
 		(at 116.205 153.67 180)
@@ -4906,6 +4966,26 @@
 		)
 		(uuid "f08cb433-e2d2-4b67-9a54-2901557e75d7")
 	)
+	(label "LED1_OUT"
+		(at 245.11 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f2c6e839-0a25-4179-ac50-32e8220793fb")
+	)
+	(label "CLK_16M_RTN"
+		(at 176.53 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f5fd218d-868f-4df0-bddf-d61dc87ef18c")
+	)
 	(label "D6"
 		(at 149.225 156.21 0)
 		(effects
@@ -4915,6 +4995,16 @@
 			(justify left bottom)
 		)
 		(uuid "fc00735a-827e-428e-8273-bc113fdb3ce9")
+	)
+	(label "CLK_16M"
+		(at 173.99 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fe623091-b438-458f-a30a-0aaa3b323624")
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
