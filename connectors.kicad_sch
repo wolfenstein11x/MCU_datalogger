@@ -1505,7 +1505,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2eb9cf07-5c62-4bde-9dce-c09f42cd6166")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 150.495 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1598,7 +1598,7 @@
 		(instances
 			(project "MCU_datalogger"
 				(path "/755fa3e0-2b76-4b1a-a49f-069f1564984c/66566ee9-3c88-4dbe-a111-e762fb8cc7c9"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -1710,7 +1710,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9bbca7be-e66d-46b1-a243-784867b04823")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 109.855 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1788,7 +1788,7 @@
 		(instances
 			(project "MCU_datalogger"
 				(path "/755fa3e0-2b76-4b1a-a49f-069f1564984c/66566ee9-3c88-4dbe-a111-e762fb8cc7c9"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)

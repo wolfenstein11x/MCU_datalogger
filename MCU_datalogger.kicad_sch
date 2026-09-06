@@ -5161,7 +5161,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34699d89-9ed8-4728-ab8d-799557a59129")
-		(property "Reference" "R3"
+		(property "Reference" "R4"
 			(at 66.04 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5235,7 +5235,7 @@
 		(instances
 			(project "MCU_datalogger"
 				(path "/755fa3e0-2b76-4b1a-a49f-069f1564984c"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -5485,7 +5485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4884b461-cef1-4647-8cf6-5a45ab21a204")
-		(property "Reference" "R1"
+		(property "Reference" "R6"
 			(at 184.15 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5559,7 +5559,7 @@
 		(instances
 			(project "MCU_datalogger"
 				(path "/755fa3e0-2b76-4b1a-a49f-069f1564984c"
-					(reference "R1")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -5577,7 +5577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49dc8746-101a-4715-832e-24da8e5cd5e2")
-		(property "Reference" "R2"
+		(property "Reference" "R3"
 			(at 54.61 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5651,7 +5651,7 @@
 		(instances
 			(project "MCU_datalogger"
 				(path "/755fa3e0-2b76-4b1a-a49f-069f1564984c"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -5669,7 +5669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f4044c3-800d-441b-aacc-877c57789e38")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 248.92 68.8974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5744,7 +5744,7 @@
 		(instances
 			(project "MCU_datalogger"
 				(path "/755fa3e0-2b76-4b1a-a49f-069f1564984c"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -6100,7 +6100,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62f9cf96-d436-4046-966e-e174f81ee41c")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 69.85 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6266,7 +6266,7 @@
 		(instances
 			(project "MCU_datalogger"
 				(path "/755fa3e0-2b76-4b1a-a49f-069f1564984c"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -6646,7 +6646,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e9d92bc-c933-4368-9493-9c2856cce5e6")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 178.7525 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6719,7 +6719,7 @@
 		(instances
 			(project "MCU_datalogger"
 				(path "/755fa3e0-2b76-4b1a-a49f-069f1564984c"
-					(reference "D2")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -7166,7 +7166,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86948a6c-6595-48fc-905f-687a84736060")
-		(property "Reference" "R6"
+		(property "Reference" "R2"
 			(at 111.76 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7240,7 +7240,7 @@
 		(instances
 			(project "MCU_datalogger"
 				(path "/755fa3e0-2b76-4b1a-a49f-069f1564984c"
-					(reference "R6")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -7841,7 +7841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3fd7bd7-560d-4540-82d1-dae93114a4b1")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 78.3433 146.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7923,7 +7923,7 @@
 		(instances
 			(project "MCU_datalogger"
 				(path "/755fa3e0-2b76-4b1a-a49f-069f1564984c"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -8357,7 +8357,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efddd96e-d0db-45b5-97e1-38f9d9b8cf04")
-		(property "Reference" "R4"
+		(property "Reference" "R1"
 			(at 101.6 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8431,7 +8431,7 @@
 		(instances
 			(project "MCU_datalogger"
 				(path "/755fa3e0-2b76-4b1a-a49f-069f1564984c"
-					(reference "R4")
+					(reference "R1")
 					(unit 1)
 				)
 			)
