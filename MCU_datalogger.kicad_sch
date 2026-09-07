@@ -4676,7 +4676,7 @@
 		)
 		(uuid "65a1a92b-2034-4196-9a19-925764560eee")
 	)
-	(label "SCK"
+	(label "SCL"
 		(at 46.99 140.97 0)
 		(effects
 			(font
@@ -4925,6 +4925,16 @@
 			(justify right bottom)
 		)
 		(uuid "f08cb433-e2d2-4b67-9a54-2901557e75d7")
+	)
+	(label "AREF"
+		(at 229.87 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fbb8a4c3-475d-44c0-a670-bee12a7a340b")
 	)
 	(label "D6"
 		(at 154.94 156.21 0)
